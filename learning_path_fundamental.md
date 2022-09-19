@@ -8,10 +8,9 @@
 |package.json| https://docs.npmjs.com/cli/v7/configuring-npm/package-json | 
 |Linter: user eslint| https://eslint.org/docs/user-guide/getting-started |
 |Modules| https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules |
-|React core concepts | https://reactjs.org/tutorial/tutorial.html |
-| ----------- | ----------- |
+|React core concepts| ----------- |
 |Create React App | https://reactjs.org/docs/create-a-new-react-app.html |
-|Components | |
+|Components | https://reactjs.org/tutorial/tutorial.html|
 |Class components| |
 |Functional components | |
 |Component lifecycle | |
@@ -22,7 +21,6 @@
 |Hooks | https://reactjs.org/docs/hooks-intro.html https://reactjs.org/docs/hooks-overview.html |
 |useState | https://reactjs.org/docs/hooks-state.html |
 |useEffect | https://reactjs.org/docs/hooks-effect.html |
-|REST API |
-| ----------- | ----------- |
+| REST API | ----------- |
 |axios| https://github.com/axios/axios |
 |useFetch|https://use-http.com/#/ |
