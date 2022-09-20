@@ -18,7 +18,7 @@
 
 # HTML
 
-- Request Lifecycle
+-  Request Lifecycle
 -  Atomic design
 -  Design systems
 -  Render Tree
@@ -34,18 +34,17 @@
 
 # CSS
 
- - CSSOM Rules
- - CSS Selectors and Property values
- - Cascading
- - Inheritance,
- - CSS Specificity
- - Box Sizing
- - Responsive Design (Mobile and Desktop first)
- - Media Queries
- - % Notation
- - Boostrap
- - Native CSS responsive properties.
-  
+- CSSOM Rules
+- CSS Selectors and Property values
+- Cascading
+- Inheritance,
+- CSS Specificity
+- Box Sizing
+- Responsive Design (Mobile and Desktop first)
+- Media Queries
+- % Notation
+- Boostrap
+- Native CSS responsive properties.
 - **Layout** - [float, flex, grid], display, postitioning
 - **Animations and transalations** - Basics, SVG, Keyframes animation.
 - CSS Processors / Preprocessors, 
