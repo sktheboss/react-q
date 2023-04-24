@@ -10,3 +10,4 @@ react interview questions
 * What is the Diff. b/ "setTimeout()" & "setInterval()"?
 * What are the ES6 features you have used?
 * Where do you mostly use Rest Operator?
+* Scope resolution 
