@@ -89,3 +89,17 @@
 | Server-Sent Events (SSE) | https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events |
 | Lerna | https://lerna.js.org/?_sm_au_=iVVH0rFwK45jqZVRscpQ8KHVVHCJF |
 | React Styleguidist | https://react-styleguidist.js.org/|
+
+## Expert
+
+| Expert | Learning pathway |
+| ----------- | ----------- |
+|Node.js internals| https://codeburst.io/node-js-v8-internals-an-illustrative-primer-83766e983bf6, https://nodejs.org/dist/latest-v15.x/docs/api/n-api.html |
+|libuv| http://docs.libuv.org/en/v1.x/api.html|
+|V8| https://v8.dev/docs, https://nodejs.org/dist/latest-v15.x/docs/api/v8.html|
+|VM| https://nodejs.org/dist/latest-v15.x/docs/api/vm.html|
+|Memory management| https://v8.dev/blog/optimizing-v8-memory, https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management, https://nodesource.com/blog/memory-leaks-demystified |
+|Node.js C++ addons| https://nodejs.org/dist/latest-v15.x/docs/api/addons.html |
+|Deno| https://deno.land/manual |
+|Tokio| https://github.com/tokio-rs/tokio |
+|PureScript| https://github.com/purescript/documentation/blob/master/guides/Getting-Started.md |
