@@ -1,3 +1,5 @@
+## Foundation
+
 | Foundation | Learning pathway |
 | ----------- | ----------- |
 |HTML | https://developer.mozilla.org/en-US/docs/Learn/HTML |
@@ -65,3 +67,25 @@
 |pm2| https://pm2.keymetrics.io/docs/usage/quick-start/|
 |forever| https://github.com/foreversd/forever#readme|
 
+## Advanced
+
+| Advanced | Learning pathway |
+| ----------- | ----------- |
+| Performance optimization | https://reactjs.org/docs/optimizing-performance.html, https://developer.chrome.com/docs/devtools/evaluate-performance/, https://developer.chrome.com/docs/devtools/speed/get-started/|
+| Profiler API | https://reactjs.org/docs/profiler.html |
+| Code-Splitting | https://reactjs.org/docs/code-splitting.html |
+| Custom Hooks | https://reactjs.org/docs/hooks-custom.html |
+| Concurrent Mode | https://reactjs.org/docs/concurrent-mode-intro.html |
+| Bundling | |
+| Webpack (in-depth) | https://webpack.js.org/guides/|
+| Rollup | https://rollupjs.org/guide/en/#quick-start |
+| Server-side rendering | https://reactjs.org/docs/react-dom-server.html|
+| Next.js | https://nextjs.org/docs |
+| State management | |
+| GraphQL | https://graphql.org/learn/ |
+| Apollo Client | https://www.apollographql.com/docs/react/|
+| Relay | https://relay.dev/docs/ |
+| Web-sockets | https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API, https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_client_applications|
+| Server-Sent Events (SSE) | https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events |
+| Lerna | https://lerna.js.org/?_sm_au_=iVVH0rFwK45jqZVRscpQ8KHVVHCJF |
+| React Styleguidist | https://react-styleguidist.js.org/|
